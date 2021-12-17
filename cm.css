@@ -1,0 +1,27 @@
+* {
+	font-family: 'Montserrat';
+}
+
+.my-stepper {
+	border: 1px solid #f2f2f2;
+	border-radius: 5%;
+	height: 54px !important;
+	font-size: 24px;
+	font-family: 'Montserrat';
+	padding: 5px;
+	text-align: right;
+}
+
+.my-radio + label {
+	margin-left: 15px;
+	font-size: 24px;
+}
+
+.my-button {
+	background: #124191;
+	border-radius: 10px;
+	border: 1px solid #124191;
+	color: white;
+	font-size: 18px;
+	height:  54px !important;
+}
